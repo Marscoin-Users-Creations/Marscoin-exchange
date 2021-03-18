@@ -2,12 +2,74 @@
     
     "bitcoin": {
         
+        "dogecoinMinimumPrice": "",
+        "dogecoinPrice": "",
         "ethereumMinimumPrice": "",
         "ethereumPrice": "",
+        "libertycoinMinimumPrice": "",
+        "libertycoinPrice": "",
         "litecoinMinimumPrice": "",
         "litecoinPrice": "",
         "marscoinMinimumPrice": 0.0000005,
         "marscoinPrice": 0.0000005,
+        "megacoinMinimumPrice": "",
+        "megacoinPrice": "",
+        "spacecoinMinimumPrice": "",
+        "spacecoinPrice": ""
+        
+    },
+    "dogecoin": {
+        
+        "bitcoinMinimumPrice": "",
+        "bitcoinPrice": "",
+        "ethereumMinimumPrice": "",
+        "ethereumPrice": "",
+        "libertycoinMinimumPrice": "",
+        "libertycoinPrice": "",
+        "litecoinMinimumPrice": "",
+        "litecoinPrice": "",
+        "marscoinMinimumPrice": 0.0000005,
+        "marscoinPrice": 0.0000005,
+        "megacoinMinimumPrice": "",
+        "megacoinPrice": "",
+        "spacecoinMinimumPrice": "",
+        "spacecoinPrice": ""
+        
+    },
+    "ethereum": {
+        
+        "bitcoinMinimumPrice": "",
+        "bitcoinPrice": "",
+        "dogecoinMinimumPrice": "",
+        "dogecoinPrice": "",
+        "libertycoinMinimumPrice": "",
+        "libertycoinPrice": "",
+        "litecoinMinimumPrice": "",
+        "litecoinPrice": "",
+        "marscoinMinimumPrice": "",
+        "marscoinPrice": "",
+        "megacoinMinimumPrice": "",
+        "megacoinPrice": "",
+        "spacecoinMinimumPrice": "",
+        "spacecoinPrice": ""
+        
+    },
+    "libertycoin": {
+        
+        "bitcoinMinimumPrice": "",
+        "bitcoinPrice": "",
+        "dogecoinMinimumPrice": "",
+        "dogecoinPrice": "",
+        "ethereumMinimumPrice": "",
+        "ethereumPrice": "",
+        "litecoinMinimumPrice": "",
+        "litecoinPrice": "",
+        "marscoinMinimumPrice": "",
+        "marscoinPrice": "",
+        "megacoinMinimumPrice": "",
+        "megacoinPrice": "",
+        "spacecoinMinimumPrice": "",
+        "spacecoinPrice": ""
         
     },
     "litecoin": {
@@ -44,6 +106,42 @@
         "megacoinPrice": 0.0000005,
         "spacecoinMinimumPrice": 0.0000005,
         "spacecoinPrice": 0.0000005
+        
+    },
+    "megacoin": {
+        
+        "bitcoinMinimumPrice": "",
+        "bitcoinPrice": "",
+        "dogecoinMinimumPrice": "",
+        "dogecoinPrice": "",
+        "ethereumMinimumPrice": "",
+        "ethereumPrice": "",
+        "libertycoinMinimumPrice": "",
+        "libertycoinPrice": "",
+        "litecoinMinimumPrice": "",
+        "litecoinPrice": "",
+        "marscoinMinimumPrice": "",
+        "marscoinPrice": "",
+        "spacecoinMinimumPrice": "",
+        "spacecoinPrice": ""
+        
+    },
+    "spacecoin": {
+        
+        "bitcoinMinimumPrice": "",
+        "bitcoinPrice": "",
+        "dogecoinMinimumPrice": "",
+        "dogecoinPrice": "",
+        "ethereumMinimumPrice": "",
+        "ethereumPrice": "",
+        "libertycoinMinimumPrice": "",
+        "libertycoinPrice": "",
+        "litecoinMinimumPrice": "",
+        "litecoinPrice": "",
+        "marscoinMinimumPrice": "",
+        "marscoinPrice": "",
+        "megacoinMinimumPrice": "",
+        "megacoinPrice": ""
         
     }
     
